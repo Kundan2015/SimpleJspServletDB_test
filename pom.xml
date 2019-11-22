@@ -7,9 +7,9 @@
 	<packaging>war</packaging>
 	
 	<!-- <properties>
-		<groupid>SimpleJspServletDB</groupid>
-		<appname>SimpleJspServletDB</appname>
-		<appversion>0.0.1</appversion>
+		<groupid>sjspdb</groupid>
+		<appname>sjspdb</appname>
+		<appversion>1</appversion>
 	</properties> -->
 	<build>
 		<sourceDirectory>src</sourceDirectory>
